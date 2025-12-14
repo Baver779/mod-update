@@ -1,8 +1,8 @@
 {
     "serverstatus":"true",
-    "noticemode":"true",
+    "noticemode":"false",
     "dataclearmode":"false",
-    "servermeassage":"New Uodate Comming ♨️",
+    "servermeassage":"",
     "opentime":" Waiting New Update",
     "libs":" put your link here ",
     "notice_title":"Mod Updated",
